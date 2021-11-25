@@ -3,7 +3,7 @@
 
 ## Output 
 
-The example output for the app should display the pages below for the user to register && login. 
+The example output for the app should look like this!
 
 ## Register Page
 
