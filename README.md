@@ -3,7 +3,7 @@
 
 ## Output 
 
-The example output for the app should look like this!
+The example output for the app should look like this...|| Get in touch if you have trouble launching the app!
 
 ## Register Page
 
