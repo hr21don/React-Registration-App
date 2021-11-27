@@ -3,7 +3,7 @@
 
 ## Output 
 
-On App execution, the example output should display the fields rendered on the Register page, asking the user to register. || Get in touch if you have trouble launching the app!
+On App execution, the example output should display the fields rendered on the Register page, Login Page asking the user to register and Login. || Get in touch if you have trouble launching the app!
 
 ## Register Page
 
