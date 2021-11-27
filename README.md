@@ -1,6 +1,10 @@
 # ReactConditionalRendering
 {React Development Journey PT 5}
 
+## Input
+
+Type your desired Input into the Username and Password fields rendered on the Register Page. Then try to login with those details on the rendered login page. 
+
 ## Output 
 
 On App execution, the example output should display the fields rendered on the Register page, Login Page asking the user to register and Login. || Get in touch if you have trouble launching the app!
@@ -22,9 +26,9 @@ On App execution, the example output should display the fields rendered on the R
 
 ## Things to Try!
 
-Fork a copy of the sandbox using the following link! || lsnqt.csb.app/ 
+* Fork a copy of the sandbox using the following link! || lsnqt.csb.app/ 
 
-Open up App.jsx and change the following value from false to true to check if the User is logged in!
+* Open up App.jsx and change the following value from false to true to check if the User is logged in!
 
 ```
 //Change from False to True
