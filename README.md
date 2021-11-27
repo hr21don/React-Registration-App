@@ -3,7 +3,7 @@
 
 ## Output 
 
-The example output for the app should look like this...|| Get in touch if you have trouble launching the app!
+On App execution, the example output should display the fields rendered on the Register page, asking the user to register. || Get in touch if you have trouble launching the app!
 
 ## Register Page
 
@@ -19,3 +19,15 @@ The example output for the app should look like this...|| Get in touch if you ha
 * Developer.Mozilla.Org(2021).https://mzl.la/3HNaZHj. Date Accessed. 25.11.21
 * ReactJs.Org(2021). https://bit.ly/3CWwuBI .Date Accessed. 25.11.21
 * Wikipedia(2021).https://bit.ly/3FMA8jn.Date Accessed. 25.11.21
+
+## Things to Try!
+
+Fork a copy of the sandbox using the following link! || lsnqt.csb.app/ 
+
+Open up App.jsx and change the following value from false to true to check if the User is logged in!
+
+```
+//Change from False to True
+var isUserRegistered = False;
+
+```
