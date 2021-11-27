@@ -28,6 +28,6 @@ Open up App.jsx and change the following value from false to true to check if th
 
 ```
 //Change from False to True
-var isUserRegistered = False;
+var isUserRegistered = false;
 
 ```
